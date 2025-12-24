@@ -29,7 +29,7 @@ Current platforms (LINE OpenChat, Facebook Groups) fail to facilitate immediate,
 ##  Prototype & Design
 We have designed the complete user journey and UI/UX using Figma.
 
-###  [View Application Prototype (PDF)]( )
+###  [View Application Prototype (PDF)](Glaigan_Prototype_.pdf)
 
 > *Note: Click the links above to view the design mockups.*
 
